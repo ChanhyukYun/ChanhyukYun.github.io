@@ -2,7 +2,6 @@
 title:  "Smart privacy-preserving 3D reconstruction and camera localization (2022.03 - 2024.02)"
 ---
 
-### Goal
 Developing core algorithms for 3D reconstruction and camera localization that can address user's privacy concerns.
   
 <br/>
