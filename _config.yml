@@ -329,5 +329,23 @@ defaults:
       share: true
       related: true
       show_date: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
 
 date_format: "%Y-%m-%d"
