@@ -302,10 +302,10 @@ jekyll-archives:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
 
 # HTML Compression
 # - https://jch.penibelst.de/
