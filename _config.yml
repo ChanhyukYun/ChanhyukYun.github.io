@@ -300,10 +300,10 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 collections:
-  project:
+  projects:
     output: true
     permalink: /:collection/:path/
-  publication:
+  publications:
     output: true
     permalink: /:collection/:path
 
