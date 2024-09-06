@@ -2,6 +2,10 @@
 title:  "Smart privacy-preserving 3D reconstruction and camera localization"
 ---
 
+### Abstract
+
+
+
 ### Members
 > Chunghwan Lee (Dept. Electronic Engineering, Hanyang University)  
 > Chanhyuk Yun (Dept. Electronic Engineering, Hanyang University)  
@@ -17,11 +21,6 @@ HY-Vision Lab, Hanyang University\
 ### Participation period
 2022.03 - 2024.02
 
-  
-### Abstract
-
-  
-  
 ### Publications
 #### Paper
 * Chunghwan Lee, et al. "Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization.", *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.* 2023  
