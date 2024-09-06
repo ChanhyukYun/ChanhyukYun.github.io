@@ -299,7 +299,13 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-
+collections:
+  project:
+    output: true
+    permalink: /:collection/:path/
+  publication:
+    output: true
+    permalink: /:collection/:path
 
 # HTML Compression
 # - https://jch.penibelst.de/
