@@ -12,25 +12,25 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Yun's diary"
-title_separator          : "-"
-subtitle                 : 윤찬혁의 개발일지 # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "To be a skilled developer"
 name                     : "Chanhyuk Yun"
-description              : "An amazing website."
+description              : "윤찬혁의 개발일지입니다."
 url                      : "https://ChanhyukYun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ChanhyukYun/ChanhyukYun.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
+enable_copy_code_button  : true # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
@@ -114,29 +114,29 @@ analytics:
 # Site Author
 author:
   name             : "Chanhyuk Yun" #"Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master's degree in Electronic Engineering" # "I am an **amazing** person."
-  location         : "Republic of Korea"
-  email            : "cksgurdbs@gmail.com"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Computer vision and artificial intelligence developer. Master's degree in Electronic Engineering"
+  location         : "Seoul, South Korea"
+  email            : # "cksgurdbs@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:cksgurdbs@gmail.com"
+      url: "mailto:cksgurdbs@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://ChanhyukYun.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/ChanhyukYun"
+      url: "https://github.com/ChanhyukYun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
 
 # Site Footer
 footer:
@@ -323,3 +323,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+
+date_format: "%Y-%m-%d"
