@@ -1,5 +1,7 @@
 ---
-title: "test for projects"
+layout: single
+title:  "Test"
+category: project
 ---
 
 ### Test
