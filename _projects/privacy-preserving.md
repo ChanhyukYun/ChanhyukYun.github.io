@@ -2,8 +2,7 @@
 title:  "Smart privacy-preserving 3D reconstruction and camera localization"
 ---
 
-### Abstract
-Explanation for Privacy-preserving  
+Developing core algorithms for 3D reconstruction and camera localization that can address user's privacy concerns.
   
 <br/>
   
