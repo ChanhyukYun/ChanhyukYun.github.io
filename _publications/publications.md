@@ -5,20 +5,20 @@ title: "Publications"
 ### Papers
 
 + 후류 차영상을 활용한 멀티 레이블 기반 자동차 공력성능 관련 디자인 인자 분류 기법  
-  **윤찬혁**, 김준, 조정식, 홍제형, 송시몬
-  *제 35회 영상처리 및 이해에 관한 워크샵 (IPIU 2023), 제주*
-<br/>
-+ 차량 공력 성능 개선을 위한 인공지능 모델 기반 후류 분석 기법
-  **윤찬혁**, 김준, 조정식, 홍제형, 송시몬
-  *2023 대한기계학회 유체공학부문 춘계학술대회(oral), 서울대학교*
-<br/>
-+ Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization
-  Chunghwan Lee, Jaihoon Kim, **Chanhyuk Yun** and Je Hyeong Hong
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023*
-<br/>
-+ Positional Encoding 기법을 활용한 유동 속도 예측 물리 인공 신경망 구현
-  김진현, **윤찬혁**, 김준, 홍제형, 송시몬
-  *2023 대한전자공학회 하계학술대회, 제주*
+  **윤찬혁**, 김준, 조정식, 홍제형, 송시몬  
+  *제 35회 영상처리 및 이해에 관한 워크샵 (IPIU 2023), 제주*  
+  
++ 차량 공력 성능 개선을 위한 인공지능 모델 기반 후류 분석 기법  
+  **윤찬혁**, 김준, 조정식, 홍제형, 송시몬  
+  *2023 대한기계학회 유체공학부문 춘계학술대회(oral), 서울대학교*  
+  
++ Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization  
+  Chunghwan Lee, Jaihoon Kim, **Chanhyuk Yun** and Je Hyeong Hong  
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023*  
+  
++ Positional Encoding 기법을 활용한 유동 속도 예측 물리 인공 신경망 구현  
+  김진현, **윤찬혁**, 김준, 홍제형, 송시몬  
+  *2023 대한전자공학회 하계학술대회, 제주*  
   
 <br/>
 <br/>
