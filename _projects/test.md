@@ -1,7 +1,5 @@
 ---
-layout: single
 title:  "Test"
-category: project
 ---
 
 ### Test
