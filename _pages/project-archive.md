@@ -1,7 +1,7 @@
 ---
 title: "Project"
-layout: projects
+layout: collection
 permalink: /projects/
-author_profile: true
+author_profile: false
 sidebar_main: true
 ---
