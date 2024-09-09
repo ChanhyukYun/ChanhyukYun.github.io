@@ -9,11 +9,11 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
   // font-size: 16px;
-  font-size: 12px;
+  font-size: 15px;
 
   @include breakpoint($medium) {
     // font-size: 18px;
-    font-size: 14px;
+    font-size: 15px;
   }
 
   @include breakpoint($large) {
@@ -23,7 +23,7 @@ html {
 
   @include breakpoint($x-large) {
     // font-size: 22px;
-    font-size: 18px;
+    font-size: 16.5px;
   }
 
   -webkit-text-size-adjust: 100%;
