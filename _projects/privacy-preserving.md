@@ -6,6 +6,15 @@ Developing core algorithms for 3D reconstruction and camera localization that ca
   
 <br/>
 
+### Problems in previous works
+* Privacy threat is possible in 3D point cloud by reconstructing 2D images using a CNN-based model ([Pittaluga et al., CVPR 2019]())
+  + Several approaches are given to avoid above issue  
+    - 3D Point cloud -> 3D Line Cloud ([Speciale et al., ICCV 2019]())  
+    - 
+<br/>
+
+###
+
 ### Publications  
   
 #### Paper  
