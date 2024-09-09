@@ -8,9 +8,21 @@ Developing core algorithms for 3D reconstruction and camera localization that ca
 
 ### Problems in previous works
 * Privacy threat is possible in 3D point cloud by reconstructing 2D images using a CNN-based model ([Pittaluga et al., CVPR 2019]())
-  + Several approaches are given to avoid above issue  
-    - 3D Point cloud -> 3D Line Cloud ([Speciale et al., ICCV 2019]())  
-    - 
+  + Concern server-side privacy issues
+  + Several approaches are given to avoid above issue, but not practical  
+    1. 3D Point cloud -> 3D Line Cloud, ([Speciale et al., CVPR 2019]())  
+       - Replace points with randomly directed lines, so that the CNN-based model cannot work  
+       - This approach was refuted by [Chelani et al., CVPR 2021](), which shows line clouds with uniform-distributed line directions can be restored into point cloud  
+      
+    2. 3D Point cloud -> Save separately for each point's coordinates (e.g., x, y, z), ([Geppert et al., CVPR 2022]())
+
+* Privacy threat is possible when a client's image query is leaked while image queries are being sent to a localization server
+  + Concern query (or clien)-side privacy issues  
+  + Even with feature points and feature descriptors depicting an original image, the image can be restored with high quality ([Dangwal et al., BMVC 2021]()) which results privacy threats  
+  + Several approaches are given to avoid this scenario, but not practical
+    1. 2D feature points -> 2D feature lines, ([Speciale et al., ICCV 2019]())
+       - ...  
+    2. Lifting feature descriptors to higher dimension, ([Dusmanu et al., CVPR 2021]())  
 <br/>
 
 ###
