@@ -21,10 +21,17 @@ title: "Publications"
   *2023 대한전자공학회 하계학술대회, 제주*  
   
 <br/>
-<br/>
+
+### Thesis
+
++ 프라이버시 보존형 쿼리 영상 특징 증강 기법  
+  A Feature Augmentation Approach for Privacy-Preserving Image Queries  
+  **윤찬혁**, 홍제형  
+  *한양대학교 대학원 2024년 2월 석사학위논문*  
+
 <br/>
 
-### Patents
+### Patents (KR: 3, US: 1, PCT: 1)
 
 + 선군 맵 데이터를 이용하는 위치 추정 방법 및 장치, 선군 맵 데이터 생성 방법 (Localization Method and Apparatus Using Line Cloud Map Data, Line Cloud Map Data Generation Method)  
   홍제형, 이정환, **윤찬혁**  
