@@ -1,5 +1,5 @@
 ---
-title:  "Privacy-preserving camera localization via  (2023.01 - 2024.02)"
+title:  "Privacy-preserving camera localization via feature augmentation (2023.01 - 2024.02)"
 ---
   
 Developing core algorithms for 3D reconstruction and camera localization that can address user's privacy concerns.
