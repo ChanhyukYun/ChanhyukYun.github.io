@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Chanhyuk Yun" #"Your Name"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CV researcher & AI developer. Master's degree in Electronic Engineering"
+  bio              : "CV researcher & AI developer. Master's degree in Electronic Engineering. Interested in camera localization, de-rendering and data analysis."
   location         : "Seoul, South Korea"
   email            : # "cksgurdbs@gmail.com"
   links:
@@ -130,7 +130,7 @@ author:
       url: "https://github.com/ChanhyukYun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/cksgurdbs"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/"
@@ -324,11 +324,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false # 읽는데 걸리는 소요 시간 표시
       comments: true
       share: true
       related: true
-      show_date: true
+      show_date: true # 포스팅 날짜 표시
   # _projects
   - scope:
       path: ""
