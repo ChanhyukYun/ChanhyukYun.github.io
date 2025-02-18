@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Visual localization"
-categories: 3D computer vision
+categories: Paper_review
 tag: [3D computer vision]
 use_math: true
 ---

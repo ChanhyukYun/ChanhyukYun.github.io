@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Paper review: Distribution Balanced Loss for Multi-Label Long Tailed Dataset"
-categories: Deep Learning
+categories: Paper_review
 tag: [Deep Learning, Paper review]
 use_math: true
 ---
