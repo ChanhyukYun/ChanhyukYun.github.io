@@ -2,19 +2,47 @@
 title:  "AI for design of vehicles (2022.04 - 2023.04)"
 ---
 
-Estimating the effect of each design factors in vehicles on aerodynamic performance using artificial intelligence
+디자인 인자별로 자동차 공력성능에 미치는 영향력을 예측하는 AI 모델 개발
 
 <br/>
 
-### Problems in previous works
+## 연구 동기
+- 자동차 디자인 인자 (전면부 범퍼 곡률 등)의 변화는 공기저항을 포함한 차량의 공력 성능에 영향을 줌 <br/>
+- 기존에는 사람이 경험에 의거하여 디자인 인자별 차량 후류 유동장을 분석 후 디자인 인자가 공력성능에 주는 영향력을 분석하였음 <br/>
+- 이는 평가자마다 분석 결과가 상이하며, 숙련된 평가자만이 분석할 수 있다는 단점이 있음 <br/>
+- 상기 문제 해결 가능성을 확인하기 위하여, 차량 후류 유동장을 입력으로 받아 디자인 인자별 영향 유무를 예측하는 AI 모델을 개발하였음 <br/>
 
 <br/>
 
-### Methodology
+## 참여 인원
+- 윤찬혁 (한양대학교 융합전자공학과) <br/>
+- 김준 (한양대학교 융합기계공학과) <br/>
+- 조정식 (현대자동차) <br/>
+- 홍제형 (한양대학교 융합전자공학과) <br/>
+- 송시몬 (한양대학교 융합기계공학과) <br/>
 
-### Publications
+<br/>
+
+## 방법
+
+<br/>
+
+## 결과
+
+<br/>
+
+## 기여도
+
+<br/>
+
+## 배운 점
+
+<br/>
+
+## Publications
   
-#### Paper  
+#### 논문
+
 + 후류 차영상을 활용한 멀티 레이블 기반 자동차 공력성능 관련 디자인 인자 분류 기법  
   **윤찬혁**, 김준, 조정식, 홍제형, 송시몬  
   *제 35회 영상처리 및 이해에 관한 워크샵 (IPIU 2023), 제주*  
@@ -22,17 +50,10 @@ Estimating the effect of each design factors in vehicles on aerodynamic performa
 + 차량 공력 성능 개선을 위한 인공지능 모델 기반 후류 분석 기법  
   **윤찬혁**, 김준, 조정식, 홍제형, 송시몬  
   *2023 대한기계학회 유체공학부문 춘계학술대회(oral), 서울대학교*  
-
-<br/>
   
-#### Patents
+#### 특허
 
 + 벡터장 분석 시스템 및 분석 방법  
   **윤찬혁**, 김준, 홍제형, 송시몬, 장일훈, 김진현  
   대한민국, 2023, 출원, 10-2023-0125928  
   PCT, 2024, 출원, PCT/KR2024/008602 
-
-<br/>
-
-### Organization  
-[HY-Vision Lab](https://sites.google.com/view/hyvision/home?authuser=0), [Hanyang University](https://hanyang.ac.kr/), Hyundai Motors
